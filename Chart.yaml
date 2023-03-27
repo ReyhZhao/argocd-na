@@ -1,0 +1,7 @@
+apiVersion: v2
+name: networkautomation
+version: 1.0.0
+dependencies:
+  - name: networkautomation
+    repository: https://PinkHostingServices@dev.azure.com/PinkHostingServices/Network%20Automation/_git/na-deployment
+    version: 3.2.32
